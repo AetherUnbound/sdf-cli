@@ -8,7 +8,7 @@ SDF is a multi-dialect SQL compiler, transformation framework, and analytical da
 
 For more, check out our official documentation at [docs.sdf.com](https://docs.sdf.com).
 
-SDF is open core built on [Apache DataFusion](https://datafusion.apache.org/)`.
+SDF is open core built on [Apache DataFusion](https://datafusion.apache.org/).
 
 ## Installation
 
